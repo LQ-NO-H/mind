@@ -1,47 +1,56 @@
 ```mermaid
-graph LR
+graph TD
     A["How Regular Exercise Improves  
 Mental Health"] --> B["Introduction:  
-Background and Thesis Statement"]
-    B --> B1["Mental health is a critical aspect  
-of overall well-being"]
-    B --> B2["Exercise is an effective strategy  
+Background & Thesis"]
+    B --> B1["Mental health is a  
+critical global aspect"]
+    B --> B2["Effective strategy  
 - Centers for Disease Control"]
-    B --> B3["Thesis: Activity optimizes brain  
-chemistry and resilience"]
+    B --> B3["Thesis: Activity optimizes  
+brain and resilience"]
 
     A --> C["Main Idea 1:  
-Enhances brain chemistry"]
-    C --> C1["Stimulates neuroplasticity via BDNF  
+Brain Chemistry"]
+    C --> C1["Stimulates BDNF for  
+neuroplasticity  
 - PubMed Central"]
-    C --> C2["Reduces cortisol via HPA axis  
+    C --> C2["Reduces cortisol via  
+HPA axis regulation  
 - PubMed Central"]
-    C --> C3["Balances neurotransmitters  
+    C --> C3["Balances serotonin  
+and dopamine  
 - PubMed Central"]
-    C --> C4["Increases PFC blood flow  
-- Nature Scientific Reports"]
+    C --> C4["Increases PFC flow  
+- Nature Reports"]
 
     A --> D["Main Idea 2:  
-Builds mental resilience"]
-    D --> D1["Increases self-efficacy via goals  
-- Applied Sport Psychology"]
-    D --> D2["Reduces loneliness via social groups  
-- Applied Sport Psychology"]
-    D --> D3["Prevents rumination via regulation  
-- Nature Scientific Reports"]
+Mental Resilience"]
+    D --> D1["Increases efficacy  
+through goals  
+- Applied Sport Psych"]
+    D --> D2["Reduces loneliness  
+via social groups  
+- Applied Sport Psych"]
+    D --> D3["Prevents rumination  
+via regulation  
+- Nature Reports"]
 
     A --> E["Main Idea 3:  
-Relieves symptoms"]
-    E --> E1["Eases depression and anxiety  
+Symptom Relief"]
+    E --> E1["Eases depression  
+and anxiety  
 - Mayo Clinic"]
-    E --> E2["Improves focus for ADHD and PTSD  
+    E --> E2["Improves focus for  
+ADHD and PTSD  
 - HelpGuide.org"]
-    E --> E3["Benefits of green exercise  
-- Centers for Disease Control"]
+    E --> E3["Benefits of outdoor  
+green exercise  
+- CDC"]
 
     A --> F["Conclusion:  
-Mind-Body Integration"]
-    F --> F1["Exercise is a sophisticated  
-biological intervention"]
-    F --> F2["Consistent activity is essential  
-for long-term resilience"]
+Holistic Integration"]
+    F --> F1["Sophisticated biological  
+intervention"]
+    F --> F2["Essential for long-term  
+mental resilience"]
