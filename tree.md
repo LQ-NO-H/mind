@@ -47,13 +47,18 @@ mental resilience"]
 
     G["Reference"]
     G-->G1["[1]PubMed Central (PMC ). (2023). Exercise for Mental Well-Being:
-Exploring Neurobiological Mechanisms."]
+Exploring Neurobiological Mechanisms.
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10381534/"]
     G-->G2["[2]Nature Scientific Reports. (2021 ). Benefit of human moderate running boosting
-mood and executive function coincident with cortical activation."]
+mood and executive function coincident with cortical activation.
+URL: https://www.nature.com/articles/s41598-021-01654-z"]
     G-->G3["[3]Applied Sport Psychology. (n.d. ).
-Psychological Benefits of Exercise."]
+Psychological Benefits of Exercise.
+URL: https://appliedsportpsych.org/resources/health-fitness-resources/psychological-benefits-of-exercise/"]
     G-->G4["[4]Mayo Clinic. (n.d. ).
 Depression and anxiety: Exercise eases symptoms."]
-    G-->G5["[5]HelpGuide.org. (2026 ). The Mental Health Benefits of Exercise."]
+    G-->G5["[5]HelpGuide.org. (2026 ). The Mental Health Benefits of Exercise.
+URL: https://www.helpguide.org/wellness/fitness/the-mental-health-benefits-of-exercise"]
     G-->G6["[6]Centers for Disease Control and Prevention. (2025).
-Physical Activity Boosts Brain Health."]
+Physical Activity Boosts Brain Health.
+URL: https://www.mayoclinic.org/diseases-conditions/depression/in-depth/depression-and-exercise/art-20046495"]
