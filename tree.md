@@ -13,40 +13,30 @@ brain and resilience"]
     A --> C["Main Idea 1:  
 Brain Chemistry"]
     C --> C1["Stimulates BDNF for  
-neuroplasticity  
-- PubMed Central"]
+neuroplasticity[1]"]
     C --> C2["Reduces cortisol via  
-HPA axis regulation  
-- PubMed Central"]
+HPA axis regulation[1]"]
     C --> C3["Balances serotonin  
-and dopamine  
-- PubMed Central"]
-    C --> C4["Increases PFC flow  
-- Nature Reports"]
+and dopamine[1]"]
+    C --> C4["Increases PFC flow[2]"]
 
     A --> D["Main Idea 2:  
 Mental Resilience"]
     D --> D1["Increases efficacy  
-through goals  
-- Applied Sport Psych"]
+through goals[3]"]
     D --> D2["Reduces loneliness  
-via social groups  
-- Applied Sport Psych"]
+via social groups[3]"]
     D --> D3["Prevents rumination  
-via regulation  
-- Nature Reports"]
+via regulation[2]"]
 
     A --> E["Main Idea 3:  
 Symptom Relief"]
     E --> E1["Eases depression  
-and anxiety  
-- Mayo Clinic"]
+and anxiety[4]"]
     E --> E2["Improves focus for  
-ADHD and PTSD  
-- HelpGuide.org"]
+ADHD and PTSD[5]"]
     E --> E3["Benefits of outdoor  
-green exercise  
-- CDC"]
+green exercise[6]"]
 
     A --> F["Conclusion:  
 Holistic Integration"]
@@ -54,3 +44,16 @@ Holistic Integration"]
 intervention"]
     F --> F2["Essential for long-term  
 mental resilience"]
+
+    G["Reference"]
+    G-->G1["[1]PubMed Central (PMC ). (2023). Exercise for Mental Well-Being:
+Exploring Neurobiological Mechanisms."]
+    G-->G2["[2]Nature Scientific Reports. (2021 ). Benefit of human moderate running boosting
+mood and executive function coincident with cortical activation."]
+    G-->G3["[3]Applied Sport Psychology. (n.d. ).
+Psychological Benefits of Exercise."]
+    G-->G4["[4]Mayo Clinic. (n.d. ).
+Depression and anxiety: Exercise eases symptoms."]
+    G-->G5["[5]HelpGuide.org. (2026 ). The Mental Health Benefits of Exercise."]
+    G-->G6["[6]Centers for Disease Control and Prevention. (2025).
+Physical Activity Boosts Brain Health."]
